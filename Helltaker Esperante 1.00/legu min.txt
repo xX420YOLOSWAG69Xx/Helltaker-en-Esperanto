@@ -1,0 +1,2 @@
+1. Anstataŭigu la "local"-dosierujon en /steamapps/common/Helltaker/ per "local"-dosierujo kiu estas enhavita ĉi tie.
+2. Lanĉu per "Steam" por ludi.
